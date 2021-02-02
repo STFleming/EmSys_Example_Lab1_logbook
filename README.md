@@ -21,7 +21,7 @@
 > Answer/Complete the following:
 
 > __Part one:__
-> 1. What is the highest frequency possible with ```digitalWrite()```? Commit your code in [SquareWaveGen/Task1/Task1.ino](SquareWaveGen/Task1/Task1.ino)  __[1 mark]__
+> 1. What is the highest frequency square wave you can generate with ```digitalWrite()```? Commit your code in [SquareWaveGen/Task1/Task1.ino](SquareWaveGen/Task1/Task1.ino)  __[1 mark]__
 > 2. Was there anything unsual about the output? If there was, speculate/discuss what it might be? __[3 marks]__
 > 3. What is the maximum frequency possible generating two square waves with ```digitalWrite()```? Commit your code in [SquareWaveGen/Task1/Task2.ino](SquareWaveGen/Task1/Task2.ino) __[1 mark]__
 > 4. How has the maximum frequency changed and why? __[2 marks]__
